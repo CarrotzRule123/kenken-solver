@@ -1,5 +1,5 @@
 # KenKen Puzzle Solver
 
-Solves KenKen Puzzles with a backtracking algorithm.
+KenKen Puzzle Solver implementing a Backtracking algorithm.
 
 Totally did not build this to cheat in a game.
