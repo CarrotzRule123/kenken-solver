@@ -1,0 +1,5 @@
+lines.py: add changes(erosion and houghlines config)
+sides.py: do houghlines once
+	  run loop to check for missed out sides
+	  set box borders as definite sides
+tesseract.py: match all templates and decide bestmatch
